@@ -3,10 +3,7 @@ import time
 import random
 import datetime
 import requests
-from settings import BASE_URL
-
-
-DUMP_FILE = "/usr/share/nginx/html/moistures.json"
+from settings import BASE_URL, DUMP_FILE
 
 POTS = 4
 
